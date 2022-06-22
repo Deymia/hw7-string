@@ -13,7 +13,8 @@ public class Main {
 
         //третье задание
 
-        String name1 = fullName.replace ('a', 'o');
+        String name1 = fullName.replace('a', 'o');
         System.out.println("ФИО сотрудника" + name1);
+
     }
 }
